@@ -22,3 +22,9 @@ if(arr[]>(arr[]/2))
 }
 
 output=arr[N]-arr[k];
+
+else
+{
+if(arr[]=arr[]/2)
+arr[]=(arr[]/2 +1);
+}
