@@ -1,0 +1,16 @@
+int arr[]=[8,4,5,2,10];
+
+int T,N,K;
+
+int count=0;
+
+while(arr++)
+{
+  
+
+  count++;
+}
+
+Arrays.sort(arr[]);
+
+if(
